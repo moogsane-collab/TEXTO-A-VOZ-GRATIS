@@ -1,0 +1,7 @@
+{
+  "name": "Sombras del Pensamiento - Audio Generator",
+  "description": "An AI-powered tool to analyze deep philosophical texts and generate high-impact promotional audio scripts and voices for social media outreach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
